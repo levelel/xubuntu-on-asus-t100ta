@@ -4,11 +4,15 @@ This is an update for the original [5bentz's guide](https://github.com/5bentz/li
 
 I only test Xubuntu 21.04 and it works great on my T100TA. Personally, I prefer the more slim xubuntu than the original ubuntu. Feedbacks are welcomed.
 
-Getting xubuntu on T100TA
+Also included the necessary `bootia32.efi` file for booting 64bit OS that was mentioned in the original guide.
+
+check here for the [`bootia32.efi`](bootia32.efi) file.
+
+## Getting xubuntu on T100TA
 
 [xubuntu 21.04 for T100TA guide can be found here](xubuntu_T100TA_guide.md)
 
-Getting Linux (Esp. Ubuntu) up and running well on the Asus Transformer T100
+## Getting Linux (Esp. Ubuntu) up and running well on the Asus Transformer T100
 
 [The original 5bentz's guide is located here.](T100TA_guide.md)
 
