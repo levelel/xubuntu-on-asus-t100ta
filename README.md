@@ -1,6 +1,7 @@
-# linux-asus-t100
+# xubuntu on asus t100ta
 
-This is an update for the original [5bentz's guide](https://github.com/5bentz/linux-asus-t100)
+This is an update for the original [5bentz's guide](https://github.com/5bentz/linux-asus-t100). 
+
 I only test Xubuntu 21.04 and it works great on my T100TA. Personally, I prefer the more slim xubuntu than the original ubuntu. Feedbacks are welcomed.
 
 Getting xubuntu on T100TA
