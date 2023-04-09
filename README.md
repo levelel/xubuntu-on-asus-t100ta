@@ -8,6 +8,8 @@ Also included the necessary `bootia32.efi` file for booting 64bit OS that was me
 
 check here for the [`bootia32.efi`](bootia32.efi) file.
 
+Also I suggest using [ventoy](https://www.ventoy.net) for installation. It should work out of the box without needing the custom bootia32.efi file.
+
 ## Getting xubuntu on T100TA
 
 [xubuntu 21.04 for T100TA guide can be found here](xubuntu_T100TA_guide.md)
